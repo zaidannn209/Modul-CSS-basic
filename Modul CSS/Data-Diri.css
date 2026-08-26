@@ -1,0 +1,49 @@
+/* --- Element Selectors --- */
+/* Selector 1: body */
+body {
+    background-color: #098df3;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px 20px;
+}
+
+/* Selector 2: h1 */
+h1 {
+    color: #1d3557;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+/* Selector 3: p */
+p {
+    margin: 6px 0;
+}
+
+
+/* --- Class Selectors --- */
+/* Class 1: .label */
+.label {
+    color: #457b9d;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Class 2: .info-text */
+.info-text {
+    color: #2b2d42;
+    font-size: 18px;
+    margin-bottom: 16px;
+    background-color: pink;
+}
+
+
+/* --- ID Selector --- */
+/* ID 1: #biodata-card */
+#biodata-card {
+    background-color: #ffffff;
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 12px;
+}
